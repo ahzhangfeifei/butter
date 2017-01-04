@@ -1,1 +1,5 @@
 # butter
+Butter is the thinking of innovation design product recorder fast, can be found by users like help product quickly, and product problems in commissioning recorder.
+
+In the process of software project development, we have the biggest problem is that people cannot be accurately find out the product development direction should be specific, and should do what kind of degree.Especially in the Internet project, the product of thinking, decided to project the development direction and function.Often thinking as the program is limited, if the product cannot get others quickly feedback and product feedback information of actual use, will produce very serious consequences.So the butter is not just in order to solve the problem of products, but also in order to solve the problem of interpersonal communication in the products.The whole project in the process of rapid iteration and can have a very efficient, very accurate product positioning.
+Butter is a quick, simple, graphical product analysis tools.
